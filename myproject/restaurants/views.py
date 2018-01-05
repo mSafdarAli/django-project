@@ -6,4 +6,8 @@ from django.shortcuts import render
 # funtion based view
 def home(request):
 	num = random.randint(0,50)
-	return render(request, "base.html", {"bool_item": False, "num": num})
+	return render(request, "home.html", {"bool_item": True, "num": num})
+def contact(request):
+	return render(request, "contact.html")
+def about(request):
+	return render(request, "about.html")		
