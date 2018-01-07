@@ -1,13 +1,10 @@
 import random
 from django.http import HttpResponse
 from django.shortcuts import render
+from django.views import View
+from django.views.generic import TemplateView
 
 # Create your views here.
-# funtion based view
-def home(request):
-	num = random.randint(0,50)
-	return render(request, "home.html", {"bool_item": True, "num": num})
-def contact(request):
-	return render(request, "contact.html")
-def about(request):
-	return render(request, "about.html")		
+# funtion based view		
+class HomeView(TemplateView): #inherits from template_view class imported
+	template_name = "home.html"
