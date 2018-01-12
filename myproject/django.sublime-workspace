@@ -4,12 +4,36 @@
 		"selected_items":
 		[
 			[
-				"BA",
-				"BASE_DIR"
+				"up",
+				"updTask"
+			],
+			[
+				"ree",
+				"require"
 			],
 			[
 				"re",
-				"return"
+				"require"
+			],
+			[
+				"T",
+				"TemplateView"
+			],
+			[
+				"ge",
+				"get_context_data"
+			],
+			[
+				"rand",
+				"randint"
+			],
+			[
+				"Ho",
+				"HomeView"
+			],
+			[
+				"BA",
+				"BASE_DIR"
 			],
 			[
 				"margi",
@@ -284,10 +308,6 @@
 				"todo_list"
 			],
 			[
-				"up",
-				"update"
-			],
-			[
 				"s",
 				"show"
 			],
@@ -494,121 +514,11 @@
 			[
 				"addpag",
 				"addpage"
-			],
-			[
-				"addpage",
-				"addpages"
-			],
-			[
-				"php",
-				"php"
-			],
-			[
-				"exp",
-				"explode"
-			],
-			[
-				"print",
-				"print_r"
-			],
-			[
-				"upload",
-				"upload"
 			]
 		]
 	},
 	"buffers":
 	[
-		{
-			"file": "restaurants/views.py",
-			"settings":
-			{
-				"buffer_size": 373,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "myproject/settings/__init__.py",
-			"settings":
-			{
-				"buffer_size": 101,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "templates/base.html",
-			"settings":
-			{
-				"buffer_size": 308,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "templates/snippets/css.html",
-			"settings":
-			{
-				"buffer_size": 491,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "templates/snippets/js.html",
-			"settings":
-			{
-				"buffer_size": 316,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "templates/snippets/nav.html",
-			"settings":
-			{
-				"buffer_size": 97,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "templates/about.html",
-			"settings":
-			{
-				"buffer_size": 150,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "templates/contact.html",
-			"settings":
-			{
-				"buffer_size": 154,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "templates/home.html",
-			"settings":
-			{
-				"buffer_size": 190,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "myproject/urls.py",
-			"settings":
-			{
-				"buffer_size": 898,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -670,7 +580,7 @@
 				"Indentation: Reindent Lines"
 			]
 		],
-		"width": 412.0
+		"width": 428.0
 	},
 	"console":
 	{
@@ -688,22 +598,58 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/C/Users/m_safdar/Dev/cfehome/src/myproject",
-		"/C/Users/m_safdar/Dev/cfehome/src/myproject/templates",
-		"/C/Users/m_safdar/Dev/cfehome/src/myproject/templates/snippets"
-	],
 	"file_history":
 	[
-		"/C/Users/m_safdar/Dev/cfehome/src/myproject/templates/snippets/css.html",
-		"/C/Users/m_safdar/Dev/cfehome/src/myproject/templates/snippets/js.html",
+		"/C/full_stack_app/tasklist/views/index.html",
+		"/C/Users/m_safdar/Desktop/mean_mytasklist-master/mean_mytasklist-master/views/index.html",
+		"/C/full_stack_app/tasklist/routes/tasks.js",
+		"/C/full_stack_app/tasklist/routes/index.js",
+		"/C/full_stack_app/tasklist/server.js",
+		"/C/Users/m_safdar/Desktop/mean_mytasklist-master/mean_mytasklist-master/routes/tasks.js",
+		"/C/full_stack_app/tasklist/client/Task.ts",
+		"/C/full_stack_app/tasklist/client/app/components/tasks/tasks.component.html",
+		"/C/full_stack_app/tasklist/client/app/app.component.html",
+		"/C/full_stack_app/tasklist/client/app/components/tasks/tasks.component.ts",
+		"/C/Users/m_safdar/Desktop/mean_mytasklist-master/mean_mytasklist-master/client/Task.ts",
+		"/C/Users/m_safdar/Desktop/mean_mytasklist-master/mean_mytasklist-master/client/app/components/tasks/tasks.component.html",
+		"/C/Users/m_safdar/Desktop/mean_mytasklist-master/mean_mytasklist-master/client/app/app.component.html",
+		"/C/Users/m_safdar/Desktop/mean_mytasklist-master/mean_mytasklist-master/client/app/components/tasks/tasks.component.ts",
+		"/C/full_stack_app/tasklist/client/style.css",
+		"/C/full_stack_app/tasklist/client/app/app.module.ts",
+		"/C/Users/m_safdar/Desktop/mean_mytasklist-master/mean_mytasklist-master/client/package.json",
+		"/C/full_stack_app/tasklist/client/tsconfig.json",
+		"/C/full_stack_app/tasklist/client/typings.json",
+		"/C/Users/m_safdar/Desktop/mean_mytasklist-master/mean_mytasklist-master/client/tsconfig.json",
+		"/C/Users/m_safdar/Desktop/mean_mytasklist-master/mean_mytasklist-master/client/typings.json",
+		"/C/full_stack_app/tasklist/client/package.json",
+		"/C/full_stack_app/tasklist/client/systemjs.config.js",
+		"/C/full_stack_app/tasklist/client/package-lock.json",
+		"/C/full_stack_app/tasklist/client/app/main.ts",
+		"/C/full_stack_app/tasklist/client/app/app.component.ts",
+		"/C/Users/m_safdar/Desktop/mean_mytasklist-master/mean_mytasklist-master/client/app/main.ts",
+		"/C/Users/m_safdar/Desktop/mean_mytasklist-master/mean_mytasklist-master/client/app/app.module.ts",
+		"/C/Users/m_safdar/Desktop/mean_mytasklist-master/mean_mytasklist-master/client/app/app.component.ts",
+		"/C/Users/m_safdar/Dev/cfehome/src/myproject/restaurants/templates/restaurants/restaurants_list.html",
+		"/C/Users/m_safdar/Dev/cfehome/src/myproject/restaurants/views.py",
+		"/C/Users/m_safdar/Dev/cfehome/src/myproject/myproject/urls.py",
+		"/C/Users/m_safdar/Dev/cfehome/src/myproject/restaurants/models.py",
+		"/C/full_stack_app/client/node_modules/faye-websocket/examples/server.js",
+		"/C/Users/m_safdar/Dev/cfehome/src/myproject/restaurants/admin.py",
 		"/C/Users/m_safdar/Dev/cfehome/src/myproject/myproject/settings/base.py",
+		"/C/Users/m_safdar/Dev/cfehome/src/myproject/templates/snippets/sidebar.html",
+		"/C/Users/m_safdar/Dev/cfehome/src/myproject/templates/about.html",
+		"/C/Users/m_safdar/Desktop/try-django1.11-master/try-django1.11-master/restaurants/views.py",
+		"/C/Users/m_safdar/Dev/cfehome/src/myproject/templates/snippets/nav.html",
+		"/C/Express_Js/Stars_war_movie_app/app.js",
+		"/C/Users/m_safdar/Dev/cfehome/src/myproject/templates/home.html",
+		"/C/Users/m_safdar/Dev/cfehome/src/myproject/templates/contact.html",
+		"/C/Users/m_safdar/Dev/cfehome/src/myproject/templates/snippets/js.html",
+		"/C/Users/m_safdar/Dev/cfehome/src/myproject/templates/snippets/css.html",
 		"/C/Users/m_safdar/Dev/cfehome/src/myproject/templates/base.html",
+		"/C/Users/m_safdar/Dev/cfehome/src/myproject/myproject/settings/__init__.py",
 		"/C/Users/m_safdar/Dev/cfehome/src/myproject/myproject/templetes/base.html",
 		"/C/Users/m_safdar/Dev/cfehome/src/myproject/myproject/settings/production.py",
 		"/C/Users/m_safdar/Dev/cfehome/src/myproject/myproject/settings/local.py",
-		"/C/Users/m_safdar/Dev/cfehome/src/myproject/myproject/settings/__init__.py",
 		"/C/Users/m_safdar/Desktop/try-django1.11-master/try-django1.11-master/muypick/settings/base.py",
 		"/C/xampp/htdocs/chat/db.php",
 		"/C/xampp/htdocs/chat/show-messages.php",
@@ -781,53 +727,11 @@
 		"/C/xampp/htdocs/linkedin/actions.php",
 		"/C/xampp/htdocs/file/action.php",
 		"/C/xampp/htdocs/file/index.php",
-		"/C/xampp/htdocs/example/index.html",
-		"/C/xampp/htdocs/example/imageUpload.php",
-		"/C/xampp/htdocs/file/upload.php",
-		"/C/xampp/htdocs/linkedin/upload.php",
-		"/C/Users/m_safdar/Desktop/upload_multiple_images_using_jquery_ajax_php/upload_multiple_images_using_jquery_ajax_php/index.html",
-		"/C/Users/m_safdar/Desktop/multiple_file_upload_via_ajax/multiple_file_upload_via_ajax/index.php",
-		"/C/xampp/htdocs/fileupload/processupload.php",
-		"/C/Users/m_safdar/Desktop/ajax-file-upload-with-jquery/index.php",
-		"/C/xampp/htdocs/file/dbConfig.php",
-		"/C/Users/m_safdar/Desktop/live_image_upload_jquery_php/live_image_upload_jquery_php/users.sql",
-		"/C/xampp/htdocs/multiple/database_connection.php",
-		"/C/xampp/htdocs/multiple/insert.php",
-		"/C/xampp/htdocs/multiple/fetch.php",
-		"/C/xampp/htdocs/multiple/index.php",
-		"/C/xampp/htdocs/multiple/connection.php",
-		"/C/Users/m_safdar/Desktop/insert-dynamic-multi-select-box-data-using-jquery-ajax-php/testing.sql",
-		"/C/xampp/htdocs/popup/insert.php",
-		"/C/xampp/htdocs/popup/fetch.php",
-		"/C/xampp/htdocs/popup/index.php",
-		"/C/xampp/htdocs/demo/connect.php",
-		"/C/xampp/htdocs/demo/insert.php",
-		"/C/xampp/htdocs/demo/index.php",
-		"/C/xampp/htdocs/demo/fetch.php",
-		"/C/Users/m_safdar/Desktop/prss-0.0/out_of_htdocs/class/test/who_i_am.php",
-		"/C/xampp/htdocs/friend/process.php",
-		"/C/xampp/htdocs/friend/loginscript.php",
-		"/C/xampp/htdocs/friend/index.php",
-		"/C/xampp/htdocs/friend/home.php",
-		"/C/xampp/htdocs/friend/function.php",
-		"/C/xampp/htdocs/friend/exec.php",
-		"/C/xampp/htdocs/friend/delete_friend_request.php",
-		"/C/xampp/htdocs/friend/delete_friend.php",
-		"/C/xampp/htdocs/friend/connection.php",
-		"/C/xampp/htdocs/friend/add_friend.php",
-		"/C/Users/m_safdar/Desktop/friend_request_system_in_php/friendsystem/sql.sql",
-		"/C/xampp/htdocs/friend/logout.php",
-		"/C/xampp/htdocs/friend/login.php",
-		"/C/xampp/htdocs/friend/profile.php",
-		"/C/xampp/htdocs/friend/user_action.php",
-		"/C/xampp/htdocs/friend/check_login.php",
-		"/C/xampp/htdocs/friend/includes/user_friends.php",
-		"/C/Users/m_safdar/Desktop/sql-code/code.sql",
-		"/C/xampp/htdocs/friend/includes/user_friend_requests.php"
+		"/C/xampp/htdocs/example/index.html"
 	],
 	"find":
 	{
-		"height": 40.0
+		"height": 32.0
 	},
 	"find_in_files":
 	{
@@ -841,6 +745,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"src",
+			"port"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -858,289 +764,8 @@
 	"groups":
 	[
 		{
-			"selected": 4,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "restaurants/views.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 373,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								364,
-								364
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "myproject/settings/__init__.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 101,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								101,
-								101
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "templates/base.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 308,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								283,
-								283
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "templates/snippets/css.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 491,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								491,
-								491
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "templates/snippets/js.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 316,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								67,
-								67
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "templates/snippets/nav.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 97,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								97,
-								97
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "templates/about.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 150,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								53,
-								53
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "templates/contact.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 154,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								55,
-								55
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "templates/home.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 190,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								25,
-								25
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "myproject/urls.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 898,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								881,
-								881
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -1192,6 +817,26 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"tasks.js",
+				"tasklist\\routes\\tasks.js"
+			],
+			[
+				"serve",
+				"client\\node_modules\\faye-websocket\\examples\\server.js"
+			],
+			[
+				"admin",
+				"restaurants\\admin.py"
+			],
+			[
+				"base",
+				"myproject\\settings\\base.py"
+			],
+			[
+				"model",
+				"restaurants\\models.py"
+			],
 			[
 				"rou",
 				"config\\routes.rb"
@@ -1633,10 +1278,6 @@
 				"tests\\AppBundle\\Controller\\DefaultControllerTest.php"
 			],
 			[
-				"base",
-				"app\\Resources\\views\\base.html.twig"
-			],
-			[
 				"confi",
 				"app\\config\\config.yml"
 			],
@@ -1687,22 +1328,6 @@
 			[
 				"routes",
 				"config\\routes.rb"
-			],
-			[
-				"post_",
-				"app\\controllers\\posts_controller.rb"
-			],
-			[
-				"def",
-				"src\\AppBundle\\Controller\\DefaultController.php"
-			],
-			[
-				"detail",
-				"src\\AppBundle\\Entity\\details.php"
-			],
-			[
-				"entiuser.php",
-				"src\\AppBundle\\Entity\\user.php"
 			]
 		],
 		"width": 0.0
