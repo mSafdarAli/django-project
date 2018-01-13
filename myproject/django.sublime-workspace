@@ -4,15 +4,27 @@
 		"selected_items":
 		[
 			[
+				"re",
+				"return"
+			],
+			[
+				"Co",
+				"CoffeRestaurantListView"
+			],
+			[
+				"Res",
+				"RestaurantLocation"
+			],
+			[
+				"ob",
+				"objects"
+			],
+			[
 				"up",
 				"updTask"
 			],
 			[
 				"ree",
-				"require"
-			],
-			[
-				"re",
 				"require"
 			],
 			[
@@ -502,18 +514,6 @@
 			[
 				"p",
 				"product"
-			],
-			[
-				"li",
-				"link"
-			],
-			[
-				"addpa",
-				"addpages"
-			],
-			[
-				"addpag",
-				"addpage"
 			]
 		]
 	},
@@ -580,7 +580,7 @@
 				"Indentation: Reindent Lines"
 			]
 		],
-		"width": 428.0
+		"width": 412.0
 	},
 	"console":
 	{
@@ -598,8 +598,20 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/C/Users/m_safdar/Dev/cfehome/src/myproject",
+		"/C/Users/m_safdar/Dev/cfehome/src/myproject/myproject"
+	],
 	"file_history":
 	[
+		"/C/Users/m_safdar/Dev/cfehome/src/myproject/templates/base.html",
+		"/C/Users/m_safdar/Dev/cfehome/src/myproject/restaurants/models.py",
+		"/C/Users/m_safdar/Dev/cfehome/src/myproject/restaurants/templates/restaurants/restaurants_list.html",
+		"/C/Users/m_safdar/Dev/cfehome/src/myproject/restaurants/views.py",
+		"/C/Users/m_safdar/Dev/cfehome/src/myproject/myproject/urls.py",
+		"/C/Users/m_safdar/Dev/cfehome/src/myproject/myproject/settings/base.py",
+		"/C/Users/m_safdar/Dev/cfehome/src/myproject/restaurants/admin.py",
 		"/C/full_stack_app/tasklist/views/index.html",
 		"/C/Users/m_safdar/Desktop/mean_mytasklist-master/mean_mytasklist-master/views/index.html",
 		"/C/full_stack_app/tasklist/routes/tasks.js",
@@ -629,13 +641,7 @@
 		"/C/Users/m_safdar/Desktop/mean_mytasklist-master/mean_mytasklist-master/client/app/main.ts",
 		"/C/Users/m_safdar/Desktop/mean_mytasklist-master/mean_mytasklist-master/client/app/app.module.ts",
 		"/C/Users/m_safdar/Desktop/mean_mytasklist-master/mean_mytasklist-master/client/app/app.component.ts",
-		"/C/Users/m_safdar/Dev/cfehome/src/myproject/restaurants/templates/restaurants/restaurants_list.html",
-		"/C/Users/m_safdar/Dev/cfehome/src/myproject/restaurants/views.py",
-		"/C/Users/m_safdar/Dev/cfehome/src/myproject/myproject/urls.py",
-		"/C/Users/m_safdar/Dev/cfehome/src/myproject/restaurants/models.py",
 		"/C/full_stack_app/client/node_modules/faye-websocket/examples/server.js",
-		"/C/Users/m_safdar/Dev/cfehome/src/myproject/restaurants/admin.py",
-		"/C/Users/m_safdar/Dev/cfehome/src/myproject/myproject/settings/base.py",
 		"/C/Users/m_safdar/Dev/cfehome/src/myproject/templates/snippets/sidebar.html",
 		"/C/Users/m_safdar/Dev/cfehome/src/myproject/templates/about.html",
 		"/C/Users/m_safdar/Desktop/try-django1.11-master/try-django1.11-master/restaurants/views.py",
@@ -645,7 +651,6 @@
 		"/C/Users/m_safdar/Dev/cfehome/src/myproject/templates/contact.html",
 		"/C/Users/m_safdar/Dev/cfehome/src/myproject/templates/snippets/js.html",
 		"/C/Users/m_safdar/Dev/cfehome/src/myproject/templates/snippets/css.html",
-		"/C/Users/m_safdar/Dev/cfehome/src/myproject/templates/base.html",
 		"/C/Users/m_safdar/Dev/cfehome/src/myproject/myproject/settings/__init__.py",
 		"/C/Users/m_safdar/Dev/cfehome/src/myproject/myproject/templetes/base.html",
 		"/C/Users/m_safdar/Dev/cfehome/src/myproject/myproject/settings/production.py",
@@ -745,6 +750,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"queryset",
 			"src",
 			"port"
 		],
@@ -818,6 +824,30 @@
 		"selected_items":
 		[
 			[
+				"base",
+				"myproject\\settings\\base.py"
+			],
+			[
+				"mode",
+				"restaurants\\models.py"
+			],
+			[
+				"resta",
+				"restaurants\\templates\\restaurants\\restaurants_list.html"
+			],
+			[
+				"re",
+				"restaurants\\templates\\restaurants\\restaurants_list.html"
+			],
+			[
+				"view",
+				"restaurants\\views.py"
+			],
+			[
+				"admin.py",
+				"restaurants\\admin.py"
+			],
+			[
 				"tasks.js",
 				"tasklist\\routes\\tasks.js"
 			],
@@ -828,10 +858,6 @@
 			[
 				"admin",
 				"restaurants\\admin.py"
-			],
-			[
-				"base",
-				"myproject\\settings\\base.py"
 			],
 			[
 				"model",
@@ -868,10 +894,6 @@
 			[
 				"movi",
 				"app\\models\\movie.rb"
-			],
-			[
-				"re",
-				"app\\models\\review.rb"
 			],
 			[
 				"mov",
@@ -1312,22 +1334,6 @@
 			[
 				"ata",
 				"config\\database.yml"
-			],
-			[
-				"active_admin_",
-				"db\\migrate\\20170623200616_create_active_admin_comments.rb"
-			],
-			[
-				"po",
-				"app\\controllers\\posts_controller.rb"
-			],
-			[
-				"applai",
-				"app\\assets\\javascripts\\application.js"
-			],
-			[
-				"routes",
-				"config\\routes.rb"
 			]
 		],
 		"width": 0.0
