@@ -4,16 +4,40 @@
 		"selected_items":
 		[
 			[
+				"obj",
+				"objects"
+			],
+			[
+				"R",
+				"RestaurantLocation"
+			],
+			[
+				"get",
+				"get_object_or_404"
+			],
+			[
+				"rest",
+				"rest_id"
+			],
+			[
+				"a",
+				"args"
+			],
+			[
+				"Res",
+				"RestaurantDetailView"
+			],
+			[
+				"Re",
+				"RestaurantDetailView"
+			],
+			[
 				"re",
-				"return"
+				"restaurants"
 			],
 			[
 				"Co",
 				"CoffeRestaurantListView"
-			],
-			[
-				"Res",
-				"RestaurantLocation"
 			],
 			[
 				"ob",
@@ -82,10 +106,6 @@
 			[
 				"sea",
 				"search"
-			],
-			[
-				"a",
-				"auto"
 			],
 			[
 				"form",
@@ -432,10 +452,6 @@
 				"students"
 			],
 			[
-				"get",
-				"_GET"
-			],
-			[
 				"spa",
 				"border-spacing"
 			],
@@ -498,27 +514,38 @@
 			[
 				"mar",
 				"margin-bottom"
-			],
-			[
-				"E",
-				"Entity"
-			],
-			[
-				"de",
-				"details"
-			],
-			[
-				"count",
-				"country"
-			],
-			[
-				"p",
-				"product"
 			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "myproject/urls.py",
+			"settings":
+			{
+				"buffer_size": 1318,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "restaurants/views.py",
+			"settings":
+			{
+				"buffer_size": 1060,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "restaurants/templates/restaurants/restaurantlocation_detail.html",
+			"settings":
+			{
+				"buffer_size": 303,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -600,11 +627,16 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/m_safdar/Dev/cfehome/src/myproject",
-		"/C/Users/m_safdar/Dev/cfehome/src/myproject/myproject"
+		"/C/Users/m_safdar/Dev/cfehome/src/myproject"
 	],
 	"file_history":
 	[
+		"/C/Users/m_safdar/Desktop/game.html",
+		"/C/RailsApps/twistter/app/models/relationship.rb",
+		"/C/RailsApps/twistter/app/models/post.rb",
+		"/C/Users/m_safdar/Desktop/try-django1.11-master/try-django1.11-master/muypick/urls.py",
+		"/C/Users/m_safdar/Desktop/try-django1.11-master/try-django1.11-master/menus/urls.py",
+		"/C/Users/m_safdar/Desktop/try-django1.11-master/try-django1.11-master/restaurants/views.py",
 		"/C/Users/m_safdar/Dev/cfehome/src/myproject/templates/base.html",
 		"/C/Users/m_safdar/Dev/cfehome/src/myproject/restaurants/models.py",
 		"/C/Users/m_safdar/Dev/cfehome/src/myproject/restaurants/templates/restaurants/restaurants_list.html",
@@ -644,7 +676,6 @@
 		"/C/full_stack_app/client/node_modules/faye-websocket/examples/server.js",
 		"/C/Users/m_safdar/Dev/cfehome/src/myproject/templates/snippets/sidebar.html",
 		"/C/Users/m_safdar/Dev/cfehome/src/myproject/templates/about.html",
-		"/C/Users/m_safdar/Desktop/try-django1.11-master/try-django1.11-master/restaurants/views.py",
 		"/C/Users/m_safdar/Dev/cfehome/src/myproject/templates/snippets/nav.html",
 		"/C/Express_Js/Stars_war_movie_app/app.js",
 		"/C/Users/m_safdar/Dev/cfehome/src/myproject/templates/home.html",
@@ -727,12 +758,7 @@
 		"/C/Users/m_safdar/Desktop/php_jquery_image_upload/image-upload-without-refreshing-page-using-php-jquery/index.php",
 		"/C/xampp/htdocs/example/db_connect.php",
 		"/C/xampp/htdocs/example/image_upload.php",
-		"/C/Users/m_safdar/Desktop/php_jquery_image_upload/image-upload-without-refreshing-page-using-php-jquery/db_connect.php",
-		"/C/xampp/htdocs/linkedin/uploads.php",
-		"/C/xampp/htdocs/linkedin/actions.php",
-		"/C/xampp/htdocs/file/action.php",
-		"/C/xampp/htdocs/file/index.php",
-		"/C/xampp/htdocs/example/index.html"
+		"/C/Users/m_safdar/Desktop/php_jquery_image_upload/image-upload-without-refreshing-page-using-php-jquery/db_connect.php"
 	],
 	"find":
 	{
@@ -770,8 +796,96 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "myproject/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1318,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								786,
+								786
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 162.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "restaurants/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1060,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								508,
+								508
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 199.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "restaurants/templates/restaurants/restaurantlocation_detail.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 303,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								303,
+								303
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -824,6 +938,14 @@
 		"selected_items":
 		[
 			[
+				"view",
+				"restaurants\\views.py"
+			],
+			[
+				"url",
+				"myproject\\urls.py"
+			],
+			[
 				"base",
 				"myproject\\settings\\base.py"
 			],
@@ -838,10 +960,6 @@
 			[
 				"re",
 				"restaurants\\templates\\restaurants\\restaurants_list.html"
-			],
-			[
-				"view",
-				"restaurants\\views.py"
 			],
 			[
 				"admin.py",
@@ -1329,10 +1447,6 @@
 			],
 			[
 				"dat",
-				"config\\database.yml"
-			],
-			[
-				"ata",
 				"config\\database.yml"
 			]
 		],
